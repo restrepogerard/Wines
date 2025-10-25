@@ -1,4 +1,6 @@
 # Librerias y carga de datos
+import pandas as pd
+
 
 # ETL Exploratorio de datos de vinos
 
@@ -11,3 +13,4 @@
 # Preparación de datos para modelado
 # Analisis multivariado
 # limpieza y transformación de datos
+print("EDA Wines script loaded successfully.")
